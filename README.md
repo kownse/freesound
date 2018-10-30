@@ -40,4 +40,5 @@ sound including:
 2. Image classifier mfcc spectograms;
 3. 1D CNNs on first 5 seconds;
 4. GBTs on statistical features from sounds;
+
 I really had fun in doing this since it is my first time to implement stack and it really worked.
