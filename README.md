@@ -1,5 +1,4 @@
-# freesound
-top 4% solution for Freesound General-purpose Audio tagging Challenge
+# Top 4% solution for Freesound General-purpose Audio tagging Challenge
 
 This was my first time to handle sound classification problem because I missed a similar competition from kaggle.
 It is sad that I didn't understand this is a research competition which means there was no medals althrough my 
